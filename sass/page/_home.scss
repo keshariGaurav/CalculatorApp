@@ -1,0 +1,18 @@
+.output{
+    grid-column: 1/-1;
+    background-color: var(--colorBgScreen);
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding:2rem;
+   
+}
+.previous__operand{
+font-size:1.8rem;
+color:white;
+
+}
+.after__operand{
+font-size:2.8rem;
+color:white;
+}
