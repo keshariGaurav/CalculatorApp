@@ -6,3 +6,6 @@ users should be able to:
 - See the size of the elements adjust based on their device's screen size
 - Perform mathematical operations like addition, subtraction, multiplication, and division
 
+Starting Application:
+ -use "npm start" on local machine to start the application
+
